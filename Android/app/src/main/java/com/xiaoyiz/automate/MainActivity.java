@@ -59,6 +59,6 @@ public class MainActivity extends Activity {
 				Utility.sendJSON("http://10.0.2.2:8000", "Test");
 			}
 		});
-
+		
 	}
 }
